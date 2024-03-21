@@ -1,6 +1,6 @@
-# RAG
+# RAG Chat BOT
 
-The Retrieval Augmented Generation Engine (RAGE) combines LangChain, Streamlit, and Pinecone to create a powerful tool for generating responses based on user queries. Here's an overview of how it works:
+The Retrieval Augmented Generation Chat Bot combines LangChain, Streamlit, and Pinecone to create a powerful tool for generating responses based on user queries. Here's an overview of how it works:
 
 LangChain: LangChain is a library for building conversational AI systems. It provides tools for text processing, document retrieval, embeddings, and more.
 
